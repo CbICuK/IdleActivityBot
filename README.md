@@ -22,5 +22,5 @@ python -m PyInstaller .\bot.spec
 ### 4. Run 
 
 ```shell
-./dist/work_time_bot.exe
+.\dist\work_time_bot\work_time_bot.exe
 ```
