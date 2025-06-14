@@ -10,7 +10,7 @@ git clone https://github.com/CbICuK/IdleActivityBot.git
 ### 2. Install requirements
 ```shell
 cd ./IdleActivityBot
-python -m pip install requirements.txt
+python -m pip install -r requirements.txt
 ```
 
 ### 3. Build
