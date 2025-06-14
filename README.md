@@ -24,5 +24,3 @@ python -m PyInstaller .\bot.spec
 ```shell
 ./dist/work_time_bot.exe
 ```
-
-Or you can simply run the ready-made executable file `work_time_bot.exe`
